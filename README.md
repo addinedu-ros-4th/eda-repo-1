@@ -1,4 +1,4 @@
-# 비행기를 저렴하게 예매하고 싶은 P의 항공권 가격 분석 (초안)  
+# EDA PROJECT
   
 ![image](https://github.com/addinedu-ros-4th/eda-repo-1/assets/137265648/eb2acce1-c894-4251-82f4-813751fb2805)
   
