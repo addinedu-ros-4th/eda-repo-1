@@ -1,0 +1,2 @@
+*/30 * * * * /bin/bash /app/run-script.sh >> /var/log/cron.log 2>&1
+
